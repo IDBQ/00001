@@ -4,16 +4,16 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['56977774748', 'creador', true],
-  ['447441419651'],
-  ['240222921821'],
-  ['50495745934'],
-  ['56950377550']
+  ['595984664076', 'creador', true],
+
+
+
+
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['56950377550'], 
+global.prems = ['595983315802'], 
 
 global.APIs = { // API Prefix.
   
@@ -72,7 +72,7 @@ global.APIKeys = { // APIKey Here
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = 'toma tu sticker'
-global.author = 'The Lolibot-MD'
+global.author = 'The oogway bot-MD'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -82,7 +82,7 @@ global.author = 'The Lolibot-MD'
 global.vs = '1.1.5'
 global.version = vs
 
-global.gt = 'The LoliBot-MD'
+global.gt = 'The oogway bot-MD'
 global.gatabot = gt
 
 global.yt = 'https://youtube.com/channel/UC9b3UIVnVb5eQt7_Y-Qz-3A'
@@ -94,14 +94,14 @@ global.gatadiosig = ig
 global.md = 'https://github.com/elrebelde21/The-LoliBot-MD'
 global.gatabot = md
 
-global.nn = 'https://chat.whatsapp.com/Lus9S60MABnH9lF4Wf2T7k'
+global.nn = 'https://chat.whatsapp.com/FopVpOQGiO8EZPuFIjKs4p'
 global.nngrupo = nn
 
-global.nnn = 'https://chat.whatsapp.com/CFSvSOGCnuL3vk4Js1DWI2'
+global.nnn = 'https://chat.whatsapp.com/FopVpOQGiO8EZPuFIjKs4p'
 global.nnngrupo = nnn
 
-global.paypal = 'https://www.instagram.com/gata_dios  https://paypal.me/OficialGD'
-global.donar = paypal
+
+
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -134,8 +134,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = 'THE LOLIBOT-𝙈𝘿'
-global.igfg = 'The Lolibot-MD'
+global.wm = 'THE oogway bot-𝙈𝘿'
+global.igfg = 'The oogway bot-MD'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
